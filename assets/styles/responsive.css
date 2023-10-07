@@ -5,6 +5,12 @@ body {
   font-weight: 600;
 }
 
+header,
+main,
+footer {
+  max-width: 100%;
+}
+
 .container,
 header,
 main,
